@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis - Toxic Comments - with sklearn vs. Keras
+# NLP Sentiment Analysis - Toxic Comments - Logistic Regression vs LSTM
 * The notebooks contain NLP sentiment classifications of comments into several class labels of several types of verbal violence.
 * The dataset is from kaggle: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
 * The first notebook (NLP_Sentiment_Analysis-Toxic_Comments-with_sklearn.ipynb) provides a linear baseline for this contest using logistic regression.
